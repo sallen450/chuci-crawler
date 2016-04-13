@@ -1,0 +1,23 @@
+{
+  "name": "chuci-crawler",
+  "version": "0.0.1",
+  "description": "chuci crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sallen450/chuci-crawler.git"
+  },
+  "keywords": [
+    "chuci",
+    "crawler"
+  ],
+  "author": "sallen450",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sallen450/chuci-crawler/issues"
+  },
+  "homepage": "https://github.com/sallen450/chuci-crawler#readme"
+}
