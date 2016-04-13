@@ -1,2 +1,11 @@
-# chuci-crawler
-crawle songci to json
+# ChuCi crawler
+
+For get ChuCi from web and transform to json.
+
+### Usage
+
+```shell
+node index.js
+```
+
+Then then result json file is located in `./data/` dir.
